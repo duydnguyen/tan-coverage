@@ -28,4 +28,4 @@ Suggests:
     BiocStyle
 VignetteBuilder: knitr
 biocViews: ChIPSeq, Sequencing, Visualization, Coverage, Alignment, DataImport
-
+RoxygenNote: 6.0.1

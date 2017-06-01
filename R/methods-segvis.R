@@ -13,8 +13,8 @@
 ##' @importFrom GenomicRanges elementMetadata<-
 ##' @importFrom GenomicRanges resize
 ##' @importFrom GenomicRanges coverage
-##' @importFrom GenomicRanges queryHits
-##' @importFrom GenomicRanges subjectHits
+
+
 ##' @importFrom GenomicRanges width
 ##' @importFrom GenomicRanges strand
 ##' @importFrom IRanges IRanges
